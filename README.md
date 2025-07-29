@@ -9,6 +9,8 @@ Tenho experiência com automação de processos usando Python, SQL e Power Autom
 - JavaScript  
 - HTML  
 - CSS  
-- PHP  
+- PHP
+- SQL Server  
+- MySQL  
 
 Sempre buscando aprender e aprimorar minhas habilidades!
